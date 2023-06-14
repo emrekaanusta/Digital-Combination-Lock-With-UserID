@@ -8,4 +8,4 @@ Once all four digits of a password have been entered, the timer component starts
 
 ## Demo Video
 
-[![Demo Video](https://github.com/zeynepturkmen/Digital-Lock-With-UserID/assets/75041108/f2e65ffe-1f64-40e4-b31e-57643a101881)](https://drive.google.com/file/d/1__5bgiNirutrl2GmQda1bW-J0Dq_gdUv/view?usp=sharing)
+[![Demo Video](https://user-images.githubusercontent.com/75041108/245889689-77954678-109c-438a-b008-d63ba7d5b567.png)](https://drive.google.com/file/d/1__5bgiNirutrl2GmQda1bW-J0Dq_gdUv/view?usp=sharing)
