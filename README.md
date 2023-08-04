@@ -1,4 +1,4 @@
-<h1 align="center"> Digital Combination Lock With User ID :lock: </h1>
+<h1 align="center"> 🧙 Digital Combination Lock With User ID :lock: 🧙 </h1>
 
 This project has been designed utilizing Verilog and digital circuit components, including D-Flip Flops, JK-Flip Flops, a multiplier, an adder, and basic logic gates. 
 
